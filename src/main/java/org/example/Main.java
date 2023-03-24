@@ -8,6 +8,7 @@ public class Main {
         System.setProperty("web-driver.chrome.driver","/Users/german/chromedriver_mac_arm64 (1)");
         WebDriver driver = new ChromeDriver();
 //        ChromeDriver driver = new ChromeDriver();
+        // commit
 
         driver.get("https://www.selenium.dev/selenium/web/web-form.html");
 
